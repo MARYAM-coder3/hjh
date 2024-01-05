@@ -122,7 +122,7 @@ class MyApp extends StatelessWidget {
                             blurRadius: 20,
                           )
                         ]),
-                    child: const Center(child: Text('Latte')),
+                    child: const Center(child: Text('Latte coffee')),
                   ),
                 ),
               ],
